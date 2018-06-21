@@ -1,5 +1,5 @@
 ---
-layout: transit
+layout: post
 title: "Texas: Grand Canyon"
 img: canyon.jpg # Add image post (optional)
 date: 2017-07-04 12:54:00 +0300
