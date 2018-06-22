@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 type: &#9961
 title: "Thing Test"
 img: himalayan.jpg # Add image post (optional)
