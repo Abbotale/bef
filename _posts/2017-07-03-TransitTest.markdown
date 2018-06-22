@@ -1,6 +1,6 @@
 ---
 layout: transit
-type: "TEEESTTT"
+type: "✈"
 title: "Transit Test"
 img: himalayan.jpg # Add image post (optional)
 date: 2017-07-03 12:55:00 +0300
