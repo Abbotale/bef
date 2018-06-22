@@ -1,5 +1,6 @@
 ---
 layout: post
+type: test
 title: "Thing Test"
 img: himalayan.jpg # Add image post (optional)
 date: 2017-07-03 12:55:00 +0300
