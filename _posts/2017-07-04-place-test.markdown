@@ -1,5 +1,5 @@
 ---
-layout: place
+layout: post
 type: "🌍"
 title: "Place Test"
 img: canyon.jpg # Add image post (optional)
