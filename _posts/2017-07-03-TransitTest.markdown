@@ -1,5 +1,5 @@
 ---
-layout: transit
+layout: post
 type: "✈"
 title: "Transit Test"
 img: himalayan.jpg # Add image post (optional)
