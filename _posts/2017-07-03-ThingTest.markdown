@@ -13,4 +13,6 @@ OFFLINE TEST
 
 ![Super Test](https://github.com/Abbotale/bef/blob/master/assets/img/himalayan.jpg "PleaseWorkAndMakeMeHappy")
 
+![image test again](https://placehold.it/800x400 "Large example image")
+
 Banh mi hoodie viral, jianbing 3 wolf moon meditation tbh pok pok everyday carry lumbersexual kombucha iPhone. Kale chips bespoke gentrify, hella organic artisan bicycle rights cardigan listicle echo park letterpress pork belly yuccie tofu live-edge.
