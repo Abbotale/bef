@@ -13,7 +13,7 @@ OFFLINE TEST
 
 ![image test again](https://placehold.it/800x400 "Large example image")
 
-![Super Test]({{ /assets/img/himalayan.jpg" | prepend: site.baseurl }})
+![Super Test](https://github.com/Abbotale/bef/tree/master/assets/img/alaska.img "PleaseWorkAndMakeMeHappy")
 
 <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
 
