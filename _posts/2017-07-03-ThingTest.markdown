@@ -11,7 +11,7 @@ OFFLINE TEST
 
 > Brunch hella poutine authentic farm-to-table. Stumptown craft beer lomo, heirloom single-origin coffee synth PBR&B post-ironic. <cite>- Lorem Ipsum</cite>
 
-![Super Test](https://github.com/Abbotale/bef/blob/master/assets/img/himalayan.jpg "PleaseWorkAndMakeMeHappy")
+![Super Test](https://github.com/Abbotale/bef/blob/master/assets/img/himalayan.png "PleaseWorkAndMakeMeHappy")
 
 ![image test again](https://placehold.it/800x400 "Large example image")
 
