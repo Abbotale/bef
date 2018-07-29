@@ -21,8 +21,8 @@ I'm leaving England and writing a blog. The chances are that if you're reading t
   <li>I can't spell. If you spot mistakes (spelling or otherwise) let me know </li>
 </ul>
 
-I'm a beginner to blogging and a beginner to HTML but my degree has given me a decent start point. I can write in full sentences and manipulate HTML well enough to do stuff like bullet list (above) and quotes (below)
+I'm a beginner to blogging and a beginner to HTML but my degree has given me a decent start point. I can write in full sentences and manipulate HTML well enough to do stuff like bullet list (above) and quotes (below).
 
-> I can ... do stuff like bullet list (above) and quotes (below) <cite>- Me</cite>
+> I can ... do stuff like bullet list (above) and quotes <cite>- Me</cite>
 
 Beyond that I'm going to be learning as I go along and will hopefully end up with some sort of standard post format that's easy to follow. The posts that follow will be more about travelling and less about programming.
