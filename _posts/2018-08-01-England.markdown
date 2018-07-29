@@ -2,7 +2,7 @@
 layout: post
 type: "🌍"
 title: "England"
-img: canyon.jpg # TODO - GET IMAGE
+img: github.jpg # TODO - GET IMAGE
 date: 2018-08-01 12:00:00 +0000
 description: I'm leaving England and writing a blog about what I do when I leave
 tag: [University, Work, England, Leaving]
