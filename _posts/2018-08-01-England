@@ -1,0 +1,28 @@
+---
+layout: post
+type: "🌍"
+title: "England"
+img: canyon.jpg # TODO - GET IMAGE
+date: 2018-08-01 12:00:00 +0000
+description: I'm leaving England and writing a blog about what I do when I leave
+tag: [University, Work, England, Leaving]
+---
+
+If you're reading this now then you are very lucky. This is the test run.
+
+I'm leaving England and writing a blog. The chances are that if you're reading this I know you personally and I've pointed you towards this blog, if that's the case I'd like to say thank you for taking some time to visit! This blog will (probably) be a place where I detail some of the adventures I'm embarking on in an attempt to keep the people that have complained that they never know what I'm up to more in the loop. Some things to note from the beginning:
+
+<ul>
+  <li>I'm writing this using GitHub as a platform and coding in HTML (code available at https://github.com/Abbotale/bef) </li> #ADD LINK
+  <li>I don't reall know what GitHub or HTML are so I'm probably doing this badly</li>
+  <li>I don't know how to embed images into my posts (yet)</li>
+  <li>Images will be uploaded to an amazon pictures album that I'll share at the end of the post</li>
+  <li>I'm intending on writing in a kindof vague anaonamus style with few personal details </li>
+  <li>I can't spell. If you spot mistakes (spelling or otherwise) let me know </li>
+</ul>
+
+I'm a beginner to blogging and a beginner to HTML but my degree has given me a decent start point. I can write in full sentences and manipulate HTML well enough to do stuff like bullet list (above) and quotes (below)
+
+> I can ... do stuff like bullet list (above) and quotes (below) <cite>- Me</cite>
+
+Beyond that I'm going to be learning as I go along and will hopefully end up with some sort of standard post format that's easy to follow. The posts that follow will be more about travelling and less about programming.
